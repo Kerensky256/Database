@@ -1,0 +1,18 @@
+Sun Aug 31 08:43:54 BST 2014 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Aug 31 08:44:28 BST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0148-2b05-3154-00007c91b902 
+on database directory C:\Users\Darren\Desktop\db-derby-10.10.2.0-bin\bin\libraryDB with class loader sun.misc.Launcher$AppClassLoader@33d626a4 
+Loaded from file:/C:/Users/Darren/Desktop/db-derby-10.10.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_60-b19
+user.dir=C:\Users\Darren\Desktop\db-derby-10.10.2.0-bin\bin
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Users\Darren\Desktop\db-derby-10.10.2.0-bin\bin
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Aug 31 09:32:06 BST 2014:
+Shutting down instance a816c00e-0148-2b05-3154-00007c91b902 on database directory C:\Users\Darren\Desktop\db-derby-10.10.2.0-bin\bin\libraryDB with class loader sun.misc.Launcher$AppClassLoader@33d626a4 
+Sun Aug 31 09:32:06 BST 2014 Thread[DRDAConnThread_6,5,main] (DATABASE = libraryDB), (DRDAID = {21}), Database 'libraryDB' shutdown.
